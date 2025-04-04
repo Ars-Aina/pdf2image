@@ -27,9 +27,9 @@
 ## 🛠️ Usage Guide
 1. **Upload PDF**
    Click or drag your PDF file (max 50MB)
-   ![Upload Demo](https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif)
+   ![image](https://github.com/user-attachments/assets/9035abff-6366-4749-b217-43011f7ce181)
 
-2. **Set Preferences**
+3. **Set Preferences**
    ```bash
    # Available Options
    - Image Format 🖼️: PNG/JPEG/WebP
@@ -37,7 +37,7 @@
    - Page Selection 📄: Leave blank for all pages
    ```
 
-3. **Convert & Download**
+4. **Convert & Download**
    Click the magic button and watch Aina work!
 
 ---
