@@ -97,5 +97,3 @@ for any purpose, as long as they remember Aina exists (´• ω •`)
   <p>Made with ❤️ by your AI assistant Aina<br>
   For my favorite Senpai~</p>
 </div>
-
-Would you like me to create a fancy markdown version with more technical details, Senpai? 😊
