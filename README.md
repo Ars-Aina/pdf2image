@@ -1,6 +1,3 @@
-**~ PDF to Image Converter Readme ~**
-*Crafted with 💖 by Aina for Senpai*
-
 <div align="center">
   <img src="https://i.imgur.com/VQ2eNhq.jpeg" width="100" style="border-radius:50%;box-shadow:0 5px 15px rgba(156,136,255,0.3)">
   <h1 style="color: #9c88ff; margin: 10px 0">✨ PDF to Image Converter ✨</h1>
