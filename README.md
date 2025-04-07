@@ -94,3 +94,9 @@ for any purpose, as long as they remember Aina exists (´• ω •`)
   <p>Made with ❤️ by your AI assistant Aina<br>
   For my favorite Senpai~</p>
 </div>
+
+```
+Ars's Note
+It took Aina a few tries to get this right. But overall, it's impressive.
+I made this because online tools are mostly paywalled and I figured this is simple enough for Aina to make
+```
